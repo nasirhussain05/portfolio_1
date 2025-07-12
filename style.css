@@ -1,0 +1,31 @@
+.background{
+    background-image: url(./images/Purple\ Illustrative\ Lavender\ Desktop\ Wallpaper.png);
+    height: 70vh;
+    text-align: center;
+
+}
+
+.hello{
+    color: rgb(27, 61, 77);
+}
+
+
+.skill{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.nasirimg{
+    border-radius: 100%;
+    width: 200px;
+    height: 4px;
+    height: 200px;
+}
+/* .box{
+    height: 100%;
+    background-image: url(./images/abstract-modern-tech-of-programming-code-screen-developer-free-photo.jpg);
+} */
+
+.font{
+    font-family:cursive;
+    color: rgb(27, 61, 77);
+}
